@@ -198,3 +198,13 @@ sequenceDiagram
 create participant B
 A->>B: 생성
 ```
+
+#### Self Message 내부처리
+```markdown
+
+A->>A: 내부 처리
+```
+```mermaid
+sequenceDiagram
+A->>A: 내부 처리
+```
