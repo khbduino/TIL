@@ -1879,5 +1879,3 @@ malloc으로 얻은 메모리는 어떻게 관리하는가?
 Dangling Pointer는 왜 생기는가?
 Memory Leak은 왜 생기는가?
 ```
-
-**다음 문서:** `00_Common/Memory_Model.md`
